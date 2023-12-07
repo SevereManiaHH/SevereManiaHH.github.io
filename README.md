@@ -1,5 +1,3 @@
-# SevereManiaHH.github.io
-Sophia Joy C. Abalayan
 # Worst Tortures in History
 ## Credits to The Infogrphics Show
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="file:///C:/Users/Pro/Desktop/Colorful%20Goat%20Drawing.png" width="514" height="647">
